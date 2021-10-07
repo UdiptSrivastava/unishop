@@ -1,3 +1,6 @@
+Project Title - Unishop - Your one stop for buying and selling stuff.
+Team Name - Aces
+
 1.About Our Project: We have developed a web application which serves as a retail shop for second-hand stuff, primarily used for students attending Universities/Colleges. When a student arrives to a new city for his studies (in Universities/Colleges), he/she faces a long requirement of stuff they might need to settle in the city/campus. Such may include essentials for living in a new flat, or modes of transportation, or certain books, or other recreational items like sportswear and Gym Essentials.
 You can argue that we have apps like OLX for such purpose but these apps are implemented on a national city-wide scale which makes it less efficient whereas our website will be based locally on the college level whereby students(seniors and freshers) can interact and go ahead with the transaction almost immediately. They can decide a meeting place and the mode of transaction on their own which provides a lot of flexibility and safety over apps like Olx and Quikr.
 
